@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "geo_37_指定療養通所介護",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "花ファミリーケア【指定療養通所介護】香川県高松市松島町2丁目12番8号", "url": "https://www.kaigokensaku.mhlw.go.jp/37/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3770107435-00&ServiceCd=&Type=search", "url2": "https://ryouyounet.org" }, "geometry": { "type": "Point", "coordinates": [ 134.0654121, 34.3386515 ] } },
+{ "type": "Feature", "properties": { "内容": "ゆずぽっぷ【指定療養通所介護】香川県高松市松島町2丁目12番8号", "url": "https://www.kaigokensaku.mhlw.go.jp/37/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3790100717-00&ServiceCd=&Type=search", "url2": "https://ryouyounet.org" }, "geometry": { "type": "Point", "coordinates": [ 134.0652278, 34.3386936 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアサポートつばさ療養通所介護【指定療養通所介護】香川県小豆郡小豆島町神懸通甲１６６２－１", "url": "https://www.kaigokensaku.mhlw.go.jp/37/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3771200528-00&ServiceCd=&Type=search", "url2": "https://www.tubasa-shodoshima.com" }, "geometry": { "type": "Point", "coordinates": [ 134.302655730688457, 34.491766714946735 ] } }
+]
+}

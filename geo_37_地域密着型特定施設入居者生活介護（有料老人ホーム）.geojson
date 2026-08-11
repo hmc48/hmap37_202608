@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "geo_37_地域密着型特定施設入居者生活介護（有料老人ホーム）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "介護付き有料老人ホーム　ゆらぎ【地域密着型特定施設入居者生活介護（有料老人ホーム）】香川県丸亀市今津町１９番地１", "url": "https://www.kaigokensaku.mhlw.go.jp/37/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3790200293-00&ServiceCd=361&Type=search", "url2": "http://www.miyano-hp.com/" }, "geometry": { "type": "Point", "coordinates": [ 133.788524360775341, 34.274326957218655 ] } },
+{ "type": "Feature", "properties": { "内容": "介護付き有料老人ホーム大興和の里【地域密着型特定施設入居者生活介護（有料老人ホーム）】香川県観音寺市植田町1919番地", "url": "https://www.kaigokensaku.mhlw.go.jp/37/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3790500213-00&ServiceCd=361&Type=search", "url2": "http://cl-ikeda.com/daikouwa/" }, "geometry": { "type": "Point", "coordinates": [ 133.6771036, 34.1246885 ] } },
+{ "type": "Feature", "properties": { "内容": "介護付き有料老人ホームはまひるがお【地域密着型特定施設入居者生活介護（有料老人ホーム）】香川県小豆郡土庄町字半ノ池甲1356番地１", "url": "https://www.kaigokensaku.mhlw.go.jp/37/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3791200086-00&ServiceCd=361&Type=search", "url2": "hamahirugao.jp" }, "geometry": { "type": "Point", "coordinates": [ 134.180434616810516, 34.478211507715855 ] } },
+{ "type": "Feature", "properties": { "内容": "介護付有料老人ホームかりんの郷【地域密着型特定施設入居者生活介護（有料老人ホーム）】香川県仲多度郡まんのう町炭所西1521-1", "url": "https://www.kaigokensaku.mhlw.go.jp/37/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3791600103-00&ServiceCd=361&Type=search", "url2": "http：//www.karinnosato.biz/" }, "geometry": { "type": "Point", "coordinates": [ 133.879588099999978, 34.1802776 ] } }
+]
+}

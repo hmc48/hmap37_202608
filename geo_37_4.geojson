@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "geo_37_4",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": "374K370100010", "正式名称": "ママ＆チャイルドボディケア　三好助産師相談室", "機関区分": 4, "都道府県コード": 37, "市区町村コード": 207, "所在地": "香川県東かがわ市引田３０３－６", "緯度": 34.216925, "経度": 134.407414, "url": "https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2430/initialize?prefCd=37&kikanCd=K370100010&kikanKbn=4", "url2": null, "内容": "ママ＆チャイルドボディケア　三好助産師相談室【4:助産院】香川県東かがわ市引田３０３－６" }, "geometry": { "type": "Point", "coordinates": [ 134.407414, 34.216925 ] } },
+{ "type": "Feature", "properties": { "ID": "374K370100030", "正式名称": "はる助産院", "機関区分": 4, "都道府県コード": 37, "市区町村コード": 201, "所在地": "香川県高松市小村町２４６ー７", "緯度": 34.283649, "経度": 134.208167, "url": "https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2430/initialize?prefCd=37&kikanCd=K370100030&kikanKbn=4", "url2": null, "内容": "はる助産院【4:助産院】香川県高松市小村町２４６ー７" }, "geometry": { "type": "Point", "coordinates": [ 134.208167, 34.283649 ] } },
+{ "type": "Feature", "properties": { "ID": "374K370400010", "正式名称": "しのはら母乳・育児相談室", "機関区分": 4, "都道府県コード": 37, "市区町村コード": 208, "所在地": "香川県三豊市豊中町本山甲６６７－３", "緯度": 34.148022, "経度": 133.689937, "url": "https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2430/initialize?prefCd=37&kikanCd=K370400010&kikanKbn=4", "url2": null, "内容": "しのはら母乳・育児相談室【4:助産院】香川県三豊市豊中町本山甲６６７－３" }, "geometry": { "type": "Point", "coordinates": [ 133.689937, 34.148022 ] } },
+{ "type": "Feature", "properties": { "ID": "374K370500070", "正式名称": "松木母乳育児相談室", "機関区分": 4, "都道府県コード": 37, "市区町村コード": 201, "所在地": "香川県高松市岡本町１５５７－３５", "緯度": 34.291604, "経度": 133.98814, "url": "https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2430/initialize?prefCd=37&kikanCd=K370500070&kikanKbn=4", "url2": null, "内容": "松木母乳育児相談室【4:助産院】香川県高松市岡本町１５５７－３５" }, "geometry": { "type": "Point", "coordinates": [ 133.98814, 34.291604 ] } },
+{ "type": "Feature", "properties": { "ID": "374K370500090", "正式名称": "特定非営利活動法人いのちの応援舎　ぼっこ助産院", "機関区分": 4, "都道府県コード": 37, "市区町村コード": 201, "所在地": "香川県高松市春日町１１７６番地", "緯度": 34.332296, "経度": 134.09724, "url": "https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2430/initialize?prefCd=37&kikanCd=K370500090&kikanKbn=4", "url2": "https://hinata-bokko.jp/", "内容": "特定非営利活動法人いのちの応援舎　ぼっこ助産院【4:助産院】香川県高松市春日町１１７６番地" }, "geometry": { "type": "Point", "coordinates": [ 134.09724, 34.332296 ] } }
+]
+}

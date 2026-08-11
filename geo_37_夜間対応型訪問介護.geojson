@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "geo_37_夜間対応型訪問介護",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "ケアヒルズ夜間介護センター【夜間対応型訪問介護】香川県高松市十川西町277番地1リバティハイツA　１０１", "url": "https://www.kaigokensaku.mhlw.go.jp/37/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3790101178-00&ServiceCd=710&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 134.1054072, 34.2761133 ] } },
+{ "type": "Feature", "properties": { "内容": "高松夜間訪問介護センター【夜間対応型訪問介護】香川県高松市田町1－2", "url": "https://www.kaigokensaku.mhlw.go.jp/37/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3790100170-00&ServiceCd=710&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 134.048886799831877, 34.338355257222311 ] } }
+]
+}

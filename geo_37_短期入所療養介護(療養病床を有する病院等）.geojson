@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "geo_37_短期入所療養介護(療養病床を有する病院等）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "医療法人和光会　前田病院【短期入所療養介護(療養病床を有する病院等）】高松市東ハゼ町８２４番地", "url": "https://www.kaigokensaku.mhlw.go.jp/37/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3710112511-00&ServiceCd=&Type=search", "url2": "http://www.maeda-hosp.com/index.html" }, "geometry": { "type": "Point", "coordinates": [ 134.038825299999985, 34.3202759 ] } },
+{ "type": "Feature", "properties": { "内容": "わき外科クリニック短期入所療養介護事業所【短期入所療養介護(療養病床を有する病院等）】香川県高松市仏生山町甲460番地8", "url": "https://www.kaigokensaku.mhlw.go.jp/37/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3710115571-00&ServiceCd=&Type=search", "url2": "http://wakigeka.com/" }, "geometry": { "type": "Point", "coordinates": [ 134.047409799999969, 34.2820274 ] } },
+{ "type": "Feature", "properties": { "内容": "医療法人社団　三好内科医院ショートステイ【短期入所療養介護(療養病床を有する病院等）】高松市川島本町４３１－５", "url": "https://www.kaigokensaku.mhlw.go.jp/37/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3770101388-00&ServiceCd=&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 134.0823421, 34.2763761 ] } }
+]
+}
